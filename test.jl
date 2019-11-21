@@ -1,0 +1,15 @@
+include("graph.jl")
+
+
+println("*************************")
+println("* _____   ____   ____   _____  ")
+println("*|_   _| | ___| | ___| |_   _| ")
+println("*  | |   | ___| |___ |   | |   "_)
+println("*  |_|   |____| |____|   |_|   ")
+println("*    ")
+println("*")
+println("")
+println("")
+println("comamndes : ")
+println(" 1 - graphe aléatoire ")
+println(" 2 - graphe tiré d'un fichier")
